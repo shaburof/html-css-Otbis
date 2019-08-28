@@ -366,6 +366,7 @@ body {
     @media (min-width: 40rem) {
         display: flex;
         flex-direction: row;
+        align-items: flex-start;
     }
 
     @media (max-width: 52rem) {
@@ -582,7 +583,7 @@ body {
             font-size: 1em;
             color: $text-color-second;
             position: relative;
-            top: -10px;
+            top: 10px;
 
             img {
                 position: relative;
