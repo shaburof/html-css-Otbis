@@ -1,0 +1,25 @@
+$main-color:#fa6600;
+$text-color:#425156;
+$text-color-second:#dedede;
+$text-link-color:#fa6600;
+$bg-main:#dedede;
+$bg-header:#303030;
+$bg-footer:#1b1b1b;
+$other-one-color:#359a00;
+$other-two-color:#ff6600;
+$other-three-color:#008a8c;
+$other-four-color:#af02ff;
+$other-five-color:#b1a201;
+$other-six-color:#407851;
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/Roboto-Medium.ttf') format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/Roboto-Light.ttf') format("truetype");
+    font-weight: 300;
+}
